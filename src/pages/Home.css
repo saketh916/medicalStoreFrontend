@@ -10,7 +10,7 @@
   width: 90%;
   height: 500px;
   border-radius: 16px;
-  background-image: url('/med-banner.png');
+  background-image: url('../assets/med-banner.png');
   background-size: cover;
   background-position: center;
   box-shadow: 0 12px 40px rgba(0, 0, 0, 0.1);
